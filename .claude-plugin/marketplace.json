@@ -1,0 +1,19 @@
+{
+  "name": "evidence-only-resume-writer",
+  "description": "Write resume and bio copy from real project evidence.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Write resume and bio copy from real project evidence.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "evidence-only-resume-writer",
+      "source": "./plugins/evidence-only-resume-writer",
+      "description": "Write resume and bio copy from real project evidence."
+    }
+  ]
+}

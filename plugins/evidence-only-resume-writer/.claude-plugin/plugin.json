@@ -1,0 +1,18 @@
+{
+  "name": "evidence-only-resume-writer",
+  "displayName": "Evidence Only Resume Writer",
+  "version": "1.0.0",
+  "description": "Write resume and bio copy from real project evidence.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "evidence only resume writer"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
